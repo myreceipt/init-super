@@ -1,5 +1,5 @@
 {
-  "name": "super-init",
+  "name": "init-super",
   "version": "1.4.7",
   "description": "Super Enterprise Initialization",
   "main": "index.js",
@@ -13,12 +13,12 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/myreceipt/super-init.git"
+    "url": "git+https://github.com/myreceipt/init-super.git"
   },
   "bugs": {
-    "url": "https://github.com/myreceipt/super-init/issues"
+    "url": "https://github.com/myreceipt/init-super/issues"
   },
-  "homepage": "https://github.com/myreceipt/super-init#readme",
+  "homepage": "https://github.com/myreceipt/init-super#readme",
   "dependencies": {
     "next": "^10.0.3",
     "react": "^17.0.1",
